@@ -1,0 +1,1 @@
+Запрос UPDATE `users` SET `role123` = 0, Ошибка: Unknown column 'role123' in 'field list'
